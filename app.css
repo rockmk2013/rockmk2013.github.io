@@ -1,0 +1,26 @@
+.red-font{
+	color: red;
+	
+}
+body{
+	background-color: black;
+	font-size: 30px;
+	background-image: url("http://www.lnsss.com/uploads/allimg/110329/2123093500-1.jpg");
+}
+div{
+	color: white;
+	
+}
+h1.red-font{
+	font-size: 60px;
+}
+#header{
+	color:yellow;
+}
+p{
+    font-size: 40px;
+	color: red;
+}
+ul{
+	color:yellow;
+}

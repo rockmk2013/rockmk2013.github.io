@@ -1,0 +1,77 @@
+.gray-font{
+	color: gray;
+	
+}
+.nav{
+	
+	top:50%;
+	right:  50px;
+}
+li{
+    width:140px;
+    height:40px; 
+    margin: 5px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.5) inset,-1px -1px 1px rgba(0,0,0,0.5) inset;
+    list-style-type: none;
+    float: left;
+    cursor:pointer
+}
+
+.Head{
+	background-color:#F5F5F5;
+	height: 5vh;
+}
+.Aboutme{
+	background-color:#F5F5F5;
+	height:90vh;
+}
+.Learn{
+	background-image: url("http://www.learninghouse.com/wp-content/uploads/2015/08/940x434-bg-slider.jpg");
+	background-repeat:no-repeat;
+	height:60vh;
+}
+
+.Music{
+	background-image: url("https://scontent.ftpe4-1.fna.fbcdn.net/v/t31.0-8/15110412_617642538440308_8133383808308185728_o.jpg?oh=aab90ff6811dd8b7abc5a88db17f382b&oe=593C6FAF");
+	height:60vh;
+}
+.Life{
+	background-color:#F5F5F5;
+	height:60vh;
+}
+.Contact{
+	height:40vh;
+	background-image: url("http://oussamazeddam.com/wp-content/uploads/2015/01/itsjackielyon-contact-me.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+body{
+	background-color: white;
+	font-size: 30px;
+	
+}
+div{
+	color: black;
+	background-color: 
+}
+h1.gray-font{
+	font-size: 30px;
+}
+
+p{
+    font-size: 40px;
+	color: black;
+}
+
+.gotop{
+        color:black;
+        position:fixed;
+        left: 10px;
+        bottom:2vh;
+        right:5vh;
+        cursor:pointer;
+    }
+

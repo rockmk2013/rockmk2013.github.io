@@ -3,12 +3,10 @@
 	
 }
 .nav{
-	
 	top:50%;
-	right:  50px;
 }
 li{
-    width:140px;
+    width:200px;
     height:40px; 
     margin: 5px;
     background-color: white;

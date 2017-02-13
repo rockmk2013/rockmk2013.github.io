@@ -21,13 +21,13 @@ $(document).ready(function(){
 	$(".nav li:eq(0)").click(function(){
 		$("html,body").stop()
 		$(".nav li").css("background-color","white")
-		$("html,body").animate({"scrollTop":$(".Head").offset().top+10})
+		$("html,body").animate({"scrollTop":$(".Head").offset().top})
 		$(".nav li:eq(0)").css("background-color","gray")
 	})
 	$(".nav li:eq(1)").click(function(){
 		$("html,body").stop()
 		$(".nav li").css("background-color","white")
-		$("html,body").animate({"scrollTop":$(".Aboutme").offset().top+10})
+		$("html,body").animate({"scrollTop":$(".Aboutme").offset().top-5})
 		$(".nav li:eq(1)").css("background-color","gray")
 	})
 	$(".nav li:eq(2)").click(function(){

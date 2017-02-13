@@ -51,9 +51,8 @@ li{
 	background-image: url("http://www.learninghouse.com/wp-content/uploads/2015/08/940x434-bg-slider.jpg");
 	background-repeat:no-repeat;
 	background-position: right top;
-	background-size: 1510px 850px;
+	background-size: 1150px 900px;
 	height:95vh;
-
 }
 #Learn{
 	background-color: rgba(0,0,0,0.7);
@@ -72,7 +71,6 @@ li{
 }
 #Music{
 	background-color: rgba(0,0,0,0.7);
-	height: 30vh;
 
 }
 .Life{

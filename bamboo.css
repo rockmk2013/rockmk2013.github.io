@@ -1,7 +1,129 @@
-.gray-font{
-	color: gray;
+@media screen and (min-width: 1500px)
+{
+.nav{
+	top:50%;
+}
+li{
+    width:200px;
+    height:40px; 
+    margin: 5px;
+    background-color: rgba(0,0,0,0);
+    border-radius: 5px;
+    list-style-type: none;
+    float: left;
+    cursor:pointer;
+
+}
+.Hi{
+	background-color: #F5F5F5;
+}
+.Head{
+	
+	background-image: url("14612434_10153852586871402_8180414832633532564_o.png");
+	background-repeat:no-repeat;
+	background-position: 80% 50%;
+	background-size: 450px 330px;
+	height: 95vh;
+}
+#Hi{
+	width: 100vh;
+	height: 98vh;
+}
+.Aboutme{
+	background-color: #F5F5F5;
+	background-image: url("https://scontent.ftpe4-1.fna.fbcdn.net/v/t31.0-8/15626207_953790234722895_2977213289835733338_o.jpg?oh=b16d9deb788f28291ec2c66926f0bfa9&oe=59338EB1");
+	background-repeat:no-repeat;
+	background-position: right top;
+	background-size: 1510px 850px;
+	height:95vh;
+
+}
+#Aboutme{
+	background-color: rgba(0,0,0,0.7);
+	width: 80vh;
+	height: 95vh;
+}
+#self{
+	font-size: 24px;
+	color: #D3D3D3;
+}
+.Learn{
+	background-image: url("http://www.learninghouse.com/wp-content/uploads/2015/08/940x434-bg-slider.jpg");
+	background-repeat:no-repeat;
+	background-position: right top;
+	background-size: 1120px 720px;
+	height:100vh;
+
+}
+#Learn{
+	background-color: rgba(0,0,0,0.7);
+	width: 50vh;
+	height: 98vh;
+	word-break: break-all;/*必須*/
 	
 }
+#learn{
+	color: #D3D3D3;
+}
+
+.Music{
+	background-image: url("https://scontent.ftpe4-1.fna.fbcdn.net/v/t31.0-8/15110412_617642538440308_8133383808308185728_o.jpg?oh=aab90ff6811dd8b7abc5a88db17f382b&oe=593C6FAF");
+	height:98vh;
+}
+#Music{
+	background-color: rgba(0,0,0,0.7);
+
+}
+.Life{
+	background-image: url("https://scontent.ftpe4-1.fna.fbcdn.net/v/t31.0-8/15775079_1260887083968751_1504903079711741978_o.jpg?oh=199d46be65006bcdfe76db3fa2b66c89&oe=593CF043");
+	background-repeat:no-repeat;
+	background-position: right top;
+	background-size: 1500px 820px;
+	height:100vh;
+}
+#Experience{
+	background-color: rgba(0,0,0,0.7);
+	word-break: break-all;/*必須*/
+}
+.Contact{
+	height:40vh;
+	background-image: url("http://oussamazeddam.com/wp-content/uploads/2015/01/itsjackielyon-contact-me.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+body{
+	background-color: #F5F5F5;;
+	font-size: 30px;
+	
+}
+div{
+	color: black;
+	background-color: 
+}
+h1.gray-font{
+	font-size: 30px;
+}
+
+p{
+    font-size: 40px;
+	color: black;
+}
+
+.gotop{
+        color:black;
+        position:fixed;
+        left: 10px;
+        bottom:2vh;
+        right:5vh;
+        cursor:pointer;
+    }
+
+}
+
+/*
+@media screen and (max-width: 1500px)
+{
 .nav{
 	top:50%;
 }
@@ -41,6 +163,7 @@ li{
 
 }
 
+/*
 .Music{
 	background-image: url("https://scontent.ftpe4-1.fna.fbcdn.net/v/t31.0-8/15110412_617642538440308_8133383808308185728_o.jpg?oh=aab90ff6811dd8b7abc5a88db17f382b&oe=593C6FAF");
 	height:60vh;
@@ -91,3 +214,5 @@ p{
         cursor:pointer;
     }
 
+}
+*/

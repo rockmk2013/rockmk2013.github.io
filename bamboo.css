@@ -48,10 +48,10 @@ li{
 	color: #D3D3D3;
 }
 .Learn{
-	background-image: url("http://www.learninghouse.com/wp-content/uploads/2015/08/940x434-bg-slider.jpg");
+	background-image: url("learn.jpg");
 	background-repeat:no-repeat;
 	background-position: right top;
-	background-size: 1150px 900px;
+	background-size: 1120px 900px;
 	height:95vh;
 }
 #Learn{

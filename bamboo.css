@@ -120,7 +120,7 @@ p{
 
 }
 
-/*
+
 @media screen and (max-width: 1200px)
 {
  .nav{
@@ -185,7 +185,7 @@ li{
 	word-break: break-all;/*必須*/
 	
 }
-/*
+
 #learn{
 	color: #D3D3D3;
 }
@@ -211,7 +211,7 @@ li{
 	background-color: rgba(0,0,0,0.7);
 	word-break: break-all;/*必須*/
 }
-/*
+
 .Contact{
 	height:40vh;
 	background-image: url("http://oussamazeddam.com/wp-content/uploads/2015/01/itsjackielyon-contact-me.png");

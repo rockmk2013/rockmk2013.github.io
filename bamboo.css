@@ -22,7 +22,7 @@ li{
 	background-image: url("14612434_10153852586871402_8180414832633532564_o.png");
 	background-repeat:no-repeat;
 	background-position: 80% 50%;
-	background-size: 450px 380px;
+	background-size: 30% 55%;
 	height: 95vh;
 }
 
@@ -180,7 +180,7 @@ li{
 }
 #Learn{
 	background-color: rgba(0,0,0,0.7);
-	width: 50vh;
+	width: 33%;
 	height: 98vh;
 	word-break: break-all;/*必須*/
 	

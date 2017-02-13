@@ -45,7 +45,7 @@ $(document).ready(function(){
   })
   $(".gotop").fadeOut(0)
   $(window).scroll(function(){
-  	if($(window).scrollTop()>=$(".Learn").offset().top){
+  	if($(window).scrollTop()>=$(".Head").offset().top){
   		$(".gotop").fadeIn()
   	}else{
   		$(".gotop").fadeOut()

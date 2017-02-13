@@ -1,7 +1,7 @@
-@media screen and (min-width: 1500px)
+@media screen and (min-width: 1200px)
 {
 .nav{
-	top:50%;
+	top:0%;
 }
 li{
     width:200px;
@@ -40,7 +40,7 @@ li{
 }
 #Aboutme{
 	background-color: rgba(0,0,0,0.7);
-	width: 80vh;
+	width: 88vh;
 	height: 95vh;
 }
 #self{
@@ -51,14 +51,14 @@ li{
 	background-image: url("http://www.learninghouse.com/wp-content/uploads/2015/08/940x434-bg-slider.jpg");
 	background-repeat:no-repeat;
 	background-position: right top;
-	background-size: 1120px 720px;
-	height:100vh;
+	background-size: 1510px 850px;
+	height:95vh;
 
 }
 #Learn{
 	background-color: rgba(0,0,0,0.7);
 	width: 50vh;
-	height: 98vh;
+	height: 95vh;
 	word-break: break-all;/*必須*/
 	
 }
@@ -72,13 +72,14 @@ li{
 }
 #Music{
 	background-color: rgba(0,0,0,0.7);
+	height: 30vh;
 
 }
 .Life{
 	background-image: url("https://scontent.ftpe4-1.fna.fbcdn.net/v/t31.0-8/15775079_1260887083968751_1504903079711741978_o.jpg?oh=199d46be65006bcdfe76db3fa2b66c89&oe=593CF043");
 	background-repeat:no-repeat;
 	background-position: right top;
-	background-size: 1500px 820px;
+	background-size: 1505px 820px;
 	height:100vh;
 }
 #Experience{
@@ -120,63 +121,94 @@ p{
 
 }
 
-/*
-@media screen and (max-width: 1500px)
+
+@media screen and (max-width: 1200px)
 {
-.nav{
+ .nav{
 	top:50%;
 }
 li{
-    width:200px;
+    width:15%;
     height:40px; 
     margin: 5px;
-    background-color: white;
+    background-color: rgba(0,0,0,0);
     border-radius: 5px;
     list-style-type: none;
     float: left;
-    cursor:pointer
-}
+    cursor:pointer;
 
-.Head{
-	background-color:#F5F5F5;
-	height: 5vh;
 }
-.Aboutme{
+.Hi{
+	background-color: #F5F5F5;
+}
+.Head{
+	
 	background-image: url("14612434_10153852586871402_8180414832633532564_o.png");
 	background-repeat:no-repeat;
-	background-position: 80% 0%;
-	background-size: 450px 330px;
-	height:50vh;
+	background-position: 80% 50%;
+	background-size: 30% 40%;
+	height: 95vh;
+}
+#Hi{
+	width: 40%;
+	height: 98vh;
+}
+.Aboutme{
+	background-color: #F5F5F5;
+	background-image: url("https://scontent.ftpe4-1.fna.fbcdn.net/v/t31.0-8/15626207_953790234722895_2977213289835733338_o.jpg?oh=b16d9deb788f28291ec2c66926f0bfa9&oe=59338EB1");
+	background-repeat:no-repeat;
+	background-position: right top;
+	background-size: 100% 100%;
+	height:95vh;
+
+}
+#Aboutme{
+	background-color: rgba(0,0,0,0.7);
+	width: 40%;
+	height: 95vh;
+}
+#self{
+	font-size: 24px;
+	color: #D3D3D3;
 }
 .Learn{
 	background-image: url("http://www.learninghouse.com/wp-content/uploads/2015/08/940x434-bg-slider.jpg");
 	background-repeat:no-repeat;
-	background-position: right;
-	height:60vh;
+	background-position: right top;
+	background-size: 66% 98%;
+	height:100vh;
 
 }
 #Learn{
-	background-color: #F5F5F5;
-	width: 75vh;
+	background-color: rgba(0,0,0,0.7);
+	width: 50vh;
+	height: 98vh;
 	word-break: break-all;/*必須*/
-
+	
+}
+#learn{
+	color: #D3D3D3;
 }
 
-/*
 .Music{
 	background-image: url("https://scontent.ftpe4-1.fna.fbcdn.net/v/t31.0-8/15110412_617642538440308_8133383808308185728_o.jpg?oh=aab90ff6811dd8b7abc5a88db17f382b&oe=593C6FAF");
-	height:60vh;
+	background-size: 100% 100%;
+	height:98vh;
+}
+#Music{
+	background-color: rgba(0,0,0,0.7);
+	height:25%;
+
 }
 .Life{
 	background-image: url("https://scontent.ftpe4-1.fna.fbcdn.net/v/t31.0-8/15775079_1260887083968751_1504903079711741978_o.jpg?oh=199d46be65006bcdfe76db3fa2b66c89&oe=593CF043");
 	background-repeat:no-repeat;
-	background-position: right;
-	background-size: 800px 600px;
-	height:60vh;
+	background-position: right top;
+	background-size: 100% 100%;
+	height:100vh;
 }
 #Experience{
-	background-color: #F5F5F5;
-	width: 92vh;
+	background-color: rgba(0,0,0,0.7);
 	word-break: break-all;/*必須*/
 }
 .Contact{
@@ -187,7 +219,7 @@ li{
 }
 
 body{
-	background-color:#F5F5F5;;
+	background-color: #F5F5F5;;
 	font-size: 30px;
 	
 }
@@ -205,7 +237,6 @@ p{
 }
 
 .gotop{
-        color:black;
         position:fixed;
         left: 10px;
         bottom:2vh;
@@ -214,4 +245,6 @@ p{
     }
 
 }
-*/
+
+
+

@@ -69,7 +69,9 @@ li{
 	background-image: url("https://scontent.ftpe4-1.fna.fbcdn.net/v/t31.0-8/15110412_617642538440308_8133383808308185728_o.jpg?oh=aab90ff6811dd8b7abc5a88db17f382b&oe=593C6FAF");
 	height:98vh;
 	background-size: 100% 150%;
-	
+}
+.Music a{
+	text-decoration: none;
 }
 #Music{
 	background-color: rgba(0,0,0,0.7);
@@ -92,6 +94,10 @@ li{
 	background-repeat: no-repeat;
 	background-position: center;
 }
+.Contact a{
+	text-decoration: none;	
+}
+
 
 body{
 	background-color: #F5F5F5;;

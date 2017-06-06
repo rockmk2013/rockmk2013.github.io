@@ -32,7 +32,10 @@ li{
 }
 .Aboutme{
 	background-color: #F5F5F5;
+	background-image: url("15626207_953790234722895_2977213289835733338_o.jpg");
+	/*
 	background-image: url("https://scontent.ftpe4-1.fna.fbcdn.net/v/t31.0-8/15626207_953790234722895_2977213289835733338_o.jpg?oh=b16d9deb788f28291ec2c66926f0bfa9&oe=59338EB1");
+	*/
 	background-repeat:no-repeat;
 	background-position: right top;
 	background-size: 100% 150%;;
@@ -66,7 +69,7 @@ li{
 }
 
 .Music{
-	background-image: url("https://scontent.ftpe4-1.fna.fbcdn.net/v/t31.0-8/15110412_617642538440308_8133383808308185728_o.jpg?oh=aab90ff6811dd8b7abc5a88db17f382b&oe=593C6FAF");
+	background-image: url("15110412_617642538440308_8133383808308185728_o.jpg");
 	height:98vh;
 	background-size: 100% 150%;
 }
@@ -78,7 +81,7 @@ li{
 	height:35%;
 }
 .Life{
-	background-image: url("https://scontent.ftpe4-1.fna.fbcdn.net/v/t31.0-8/15775079_1260887083968751_1504903079711741978_o.jpg?oh=199d46be65006bcdfe76db3fa2b66c89&oe=593CF043");
+	background-image: url("15775079_1260887083968751_1504903079711741978_o.jpg");
 	background-repeat:no-repeat;
 	background-position: right top;
 	background-size: 100% 120%;
@@ -90,7 +93,7 @@ li{
 }
 .Contact{
 	height:40vh;
-	background-image: url("http://oussamazeddam.com/wp-content/uploads/2015/01/itsjackielyon-contact-me.png");
+	background-image: url("itsjackielyon-contact-me.png");
 	background-repeat: no-repeat;
 	background-position: center;
 }
